@@ -1,0 +1,15 @@
+{
+  "name": "sound-studio",
+  "description": "Original music and sound, composed and produced from code.",
+  "owner": {
+    "name": "HireSmith",
+    "url": "https://github.com/ninadkale98"
+  },
+  "plugins": [
+    {
+      "name": "sound-studio",
+      "source": "./",
+      "description": "Compose, produce and master original music from code: video beds, guitar songs, cinematic pieces, focus audio and sound effects."
+    }
+  ]
+}

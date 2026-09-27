@@ -1,0 +1,8 @@
+# rendered audio and intermediates never belong in the plugin
+*.wav
+*.mp3
+*.mid
+stems/
+music/
+*.spectrogram.png
+.DS_Store

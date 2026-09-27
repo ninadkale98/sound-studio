@@ -1,0 +1,23 @@
+{
+  "name": "sound-studio",
+  "description": "Compose, produce and master original music from code: video and demo beds, acoustic and electric guitar songs with real bends and amp tone, cinematic pieces, hour-long focus audio, and synced sound effects.",
+  "version": "1.0.0",
+  "author": {
+    "name": "HireSmith",
+    "url": "https://github.com/ninadkale98"
+  },
+  "keywords": [
+    "music",
+    "audio",
+    "soundtrack",
+    "guitar",
+    "midi",
+    "fluidsynth",
+    "sox",
+    "focus-music",
+    "skill"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/ninadkale98/sound-studio",
+  "repository": "https://github.com/ninadkale98/sound-studio"
+}
